@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', 'sans-serif';
+}
+
+body{
+    background-color: #052e50;
+}
+
+header{
+    background-color: white;
+}
+
+nav{
+    width: 100%;
+}
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.bar-img{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 8%;
+    height: 100%;
+    margin: 0.5rem 1rem 0.5rem 1rem;
+    background-color: white;
+}
+
+.bar-img > img{
+    width: 3rem;
+    height: 4rem;
+}
+
+.bar-img > h2{
+    font-weight: 600;
+}
+
+.bar-itens{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 92%;
+    height: 100%;
+    margin: 1rem;
+}
+
+.itens-itens{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-items: center;
+    justify-content: space-around;
+}
+
+.itens{
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #1e1e1e;
+    font-weight: 600;
+}
+
+.itens-botoes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-between;
+}
+
+.sign-up{
+    border:none;
+    background-color: white;
+    width: 6rem;
+    height: 2.5rem;
+}
+
+.sign-up > a{
+    text-decoration: none;
+    color: #052e50;
+    font-weight: 600;
+    font-size: 15px;
+    margin-right: 0.5rem;
+}
+
+.sign-in{
+    border-radius: 8px;
+    border:none;
+    background-color: #052e50;
+    width: 6rem;
+    height: 2.5rem;
+}
+
+.sign-in > a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.left{
+    width: 40%;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.left > h1{
+    color: white;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.left > h4{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 2rem 0 2rem 0;
+    align-self: flex-start;
+}
+
+.left-button{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+}
+
+.left-button > button{
+    margin-left: 0.5rem;
+}
+
+.start{
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    width: 8rem;
+    height: 2.5rem;
+    
+}
+
+.start > a {
+    text-decoration: none;
+    color: #052e50;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.void{
+    background-color: #052e50;
+    border: none;
+    border-radius: 8px;
+    width: 8rem;
+    height: 2.5rem;
+}
+
+.void > a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+label{
+    color: white;
+}
+
+.right{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right > img{
+    width: 29.5rem;
+    height: 27.3rem;
+    padding-top: 12rem;
+    padding-left: 10rem;
+    align-self: flex-end;
+}
+
+/* Smartphones (600px para baixo) */
+@media only screen and (max-width: 600px) {
+    
+}
+
+/* Dispositivos um pouco maiores, mas ainda pequenos (Pequenos Tablets e Smartphones + largos, 600px para cima) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/*Dispostivos Médios (Tablets deitados, 768px para cima) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Dispostivos Largos (laptops/desktops, 992px para cima) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */
+@media only screen and (min-width: 1200px) {
+    
+}
+

@@ -1,0 +1,10 @@
+<svg width="53" height="53" viewBox="0 0 53 53" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="26.5" cy="26.5" r="26.5" fill="#939191"/>
+<rect x="9" y="9" width="35" height="35" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_100_113" transform="scale(0.02)"/>
+</pattern>
+<image id="image0_100_113" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEKElEQVR4nO1ZTYgcVRB+66arerLGnwSz21WzOxhHjdNVvRsHiaLiL5qLCppBPSjoIYggxiRoCHjwooJBEPWkghBRBC/BW8AIShQ0Jqjg5rDrQTDi/x8qokZ57exm1ky/6Z7p6ZnFfFC3fq/re+99VfXqGXMSJ7EMUa97flCb8oPwUo/CW5HkHj/Qy7ucbcSOBdYHgGQbcnS1MeaUvFwd8QK90OfwDmDZCaxPI8teJH0fSI8i6zFk/ftEk70rK7WJtD/xJy6oAMm7beY6DBSd1xMDn+QSJPmovaOdDVi/8QK9veOPpvRMYPk0cR6Sz7MsyhKMrZVxZP25WxJLjOS1Uydmzkr6F5I+2nlR5NmuiHiT02EuJI478iVwdEtbIixHOo4nPWq6BVC4A0jnkOVPJP1uwexWA+l80+aQ9WDTZjuTkpfNuvrpS4nojykW45gpECPA+lBM3O3U7Nh4tLaFyGxfd6Rb2LAJLF91cGxPRo08UziR2LlytCk5NGt8VJp54t+oRTrvilo2+Bhg3ZercEnnzHg05jhe9yPpbyn0csRUq7iYR1jfafPNB4t5BFlfL4JIaXIDZV00YNnZugi2QgDWrTa7I4dX5pnZUwFYNyPpt10syrwZCqyungYsL/awwz8NmoLxg+gyV2mR7mjp86l/2IvYk/SApPciyx89am2PqVT81ER6EXs7IlagPe7CZ0DRDQvzueqwvgECWd/DTvyFpE+ZNeevOl716gvIurt4IiQPd0WC9MMSRxsX52HdDKRfNEPw28DawCC8Lr6gcTiNU7puFa1fY0NyX4gg6ePZCMivwLrL3iTt+BJrOb6YpZ7D7r68EhPKU+zA4c0Zxu4Hnjk3D72Cze75iv2KFR1Drk2MJHe1OxbI+kT2Yynf23yV//Hi8KpYuMlEHkscOxmeY49bymP1C5C+2aqt/MmQPOkg8rtXVnXdPiG+tIU7kHWLR9FtQHojkl7jBVq3kdGncNKYxqjpO6pVdDYmSN/L3RHIsYxv1YxH0Qa7+snfyvZciWCOZfyJUUx3uc641YRZHmiMAusBVwjuW1LLGzgenW3LcUf4vNssFyDrFldeae2aDD1cWgTSlwbtn7HiLpWn2RZyHtVmVpTDi5D02gWDQG+Ki76y3OdMlOXo+oH4bxOU7bo7ncsW8eZNUF9ZKIm4iZ26lMhCRrYVSsQ+uORNommvFkrEVKbP6Ka903FHWLcWSyS+BEUbgeQN+yTQ2o3vzuRjCPTBwhtu/wM0Rm3TINGavdwhR2PUitWhgcMDae1kxAiQPOeodA81ux7DDWTd7diJg6ZcW22GHcj6iCOcHuhLYyBv2HfyZBLy1mLXcKhRqwGwfJ1QN+13vFoNF0qsFyccp32FF3+9wL7r/fep2T7qZHoKGBYAyXYk+QFZP/E5unOQzvwDI+w/0BHH7bAAAAAASUVORK5CYII="/>
+</defs>
+</svg>
